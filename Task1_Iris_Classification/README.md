@@ -145,4 +145,4 @@ Run all cells top to bottom. Plots are automatically saved to `outputs/`.
 
 - 📁 [Back to Main Repository](../README.md)
 - 🏢 [CodeAlpha](https://www.codealpha.tech)
-- 💼 [LinkedIn — Task 1 Video Post](https://linkedin.com/in/YOUR_PROFILE)
+- 💼 [LinkedIn — Task 1 Video Post](https://www.linkedin.com/posts/asiedu-seth-osei-130b422b0_codealpha-datascience-machinelearning-ugcPost-7464771880533622784-TMrn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErrVjQBymG22T14UzHxumhJm30wYe40N9s)
